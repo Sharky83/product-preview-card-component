@@ -39,8 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Sharky83/product-preview-card-component](https://github.com/Sharky83/product-preview-card-component)
+- Live Site URL: [https://product-preview-card-component-eight-chi.vercel.app/](https://product-preview-card-component-eight-chi.vercel.app/)
 
 ## My process
 
